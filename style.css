@@ -743,7 +743,6 @@ footer {
 
     .nav-links a {
         padding: 7px 10px;
-
         font-size: 14px;
     }
 
@@ -773,4 +772,16 @@ footer {
         margin-right: 12px;
     }
 
+} /* <-- CLOSE THE MOBILE MEDIA QUERY HERE */
+
+
+/* =========================
+   T04-3 RESPONSIVE SVG
+   ========================= */
+
+.responsive-svg-container {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1200px;
+}
 }
